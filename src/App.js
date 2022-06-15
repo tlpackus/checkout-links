@@ -13,6 +13,11 @@ function App() {
         <CopyToClipboard text='https://crystallinemediamanagement.com/order-form1654885696253'>
           <button>Copy Checkout Link To Clipboard</button>
         </CopyToClipboard>
+        <hr></hr>
+        <a href="https://crystalline.academy/" target="_blank" rel="noopener noreferrer">Open Crystalline Media Website Homepage</a>
+        <CopyToClipboard text='https://crystalline.academy/'>
+          <button>Copy Link To Crystalline Media Website</button>
+        </CopyToClipboard>
         </header>
       </div>
     </div>
