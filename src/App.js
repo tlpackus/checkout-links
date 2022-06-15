@@ -9,7 +9,7 @@ function App() {
         <header className="App-header">
         <img src={Crystal} className="App-logo" alt="logo" />
         <h1 className='App-title'>Checkout Links Demo #1</h1>
-        <a href='https://crystallinemediamanagement.com/order-form1654885696253'>Click To View Checkout Page</a>
+        <a href="https://crystallinemediamanagement.com/order-form1654885696253" target="_blank" rel="noopener noreferrer">Click To View Checkout Page</a>
         <CopyToClipboard text='https://crystallinemediamanagement.com/order-form1654885696253'>
           <button>Copy Checkout Link To Clipboard</button>
         </CopyToClipboard>
