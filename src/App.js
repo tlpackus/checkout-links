@@ -16,7 +16,7 @@ function App() {
         <hr></hr>
         <a href="https://crystalline.academy/" target="_blank" rel="noopener noreferrer">Open Crystalline Media Website Homepage</a>
         <CopyToClipboard text='https://crystalline.academy/'>
-          <button>Copy Crystalline Media Website Link To Clipboard</button>
+          <button>Copy Homepage Link To Clipboard</button>
         </CopyToClipboard>
         </header>
       </div>
