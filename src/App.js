@@ -9,8 +9,8 @@ function App() {
         <header className="App-header">
         <img src={Crystal} className="App-logo" alt="logo" />
         <h1 className='App-title'>Checkout Links Demo #1</h1>
-        <CopyToClipboard text='https://www.youtube.com/watch?v=DiSvq5SgLMI'>
-          <button>Youtube Link Test</button>
+        <CopyToClipboard text='https://crystallinemediamanagement.com/order-form1654885696253'>
+          <button>Justin's Closing Link</button>
         </CopyToClipboard>
         </header>
       </div>
